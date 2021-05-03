@@ -1,0 +1,1 @@
+"use strict";window.document.oncontextmenu=function(n){return!1};
