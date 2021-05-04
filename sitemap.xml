@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.vulxin.top/posts/ebb7c955/</loc>
+    
+    <lastmod>2021-05-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.vulxin.top/posts/ed19ae83/</loc>
     
     <lastmod>2021-05-02</lastmod>
@@ -572,6 +579,13 @@
   
   <url>
     <loc>https://www.vulxin.top/tags/Bilibili/</loc>
+    <lastmod>2021-05-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vulxin.top/tags/Font/</loc>
     <lastmod>2021-05-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
