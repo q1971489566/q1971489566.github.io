@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>Design Patterns: Factory 工厂模式</title>
-      <link href="posts/488468bb/"/>
-      <url>posts/488468bb/</url>
-      
-        <content type="html"><![CDATA[<h1 id="工厂模式"><a href="#工厂模式" class="headerlink" title="工厂模式"></a>工厂模式</h1><blockquote><p>  创建型模式</p></blockquote><p>将代码中创建对象的部分分离出来，提供一个统一的接口。</p><h2 id="简单实现"><a href="#简单实现" class="headerlink" title="简单实现"></a>简单实现</h2><p>```</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> DesignPatterns </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 设计模式 </tag>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Design Patterns: Decorator 装饰器模式</title>
       <link href="posts/ed19ae83/"/>
       <url>posts/ed19ae83/</url>
